@@ -1,0 +1,2770 @@
+/* main css related to the responsive */
+
+.imgCaroQuote:hover {
+	background: #e83b3e url(https://i.ibb.co/sV65TR6/right-quote-5.png);
+	border-radius: 50%;
+	background-position: center;
+	background-size: 342px;
+  background-repeat: no-repeat;
+}
+
+
+
+
+
+
+/* responsive css for support website to all devices */
+
+
+
+
+
+
+@media (max-width:1560px) {
+
+
+.myMenu ul {
+    margin-left: 85px;
+  }
+  
+  .myMenu ul li {
+    padding: 0 7px;
+  }
+
+  .bannerSection {
+    background: url(https://templates.envytheme.com/finix/default/assets/img/main-banner2.jpg);
+    height: 871px;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+  }
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:1440px) {
+
+
+.myHead a img {
+    width: 120px;
+  }
+  
+  .allBanner h1 {
+    font-size: 55px;
+  }
+  
+  .allBanner p {
+    font-size: 16px;
+  }
+  
+  .formLeft ul::before {
+    height: calc(100% - 100px);
+  }
+  
+  .callLeft h2 {
+    font-size: 28px;
+    width: 624px;
+  }
+  
+  .callRight {
+    padding-top: 0px;
+  }
+  
+  .callRnumber h2 a {
+    font-size: 31px;
+  }
+  
+  .callRIcon {
+    width: 53px;
+    height: 53px;
+    line-height: 53px;
+  }
+  
+  .testiSlide .carousel .carousel-inner .carousel-item .textCaro p {
+    font-size: 16px;
+    width: 82%;
+  }
+  
+  .testiSlide .carousel .carousel-inner .carousel-item .imgCaro img {
+	width: 357px;
+	margin-right: 272px;
+	margin-top: 60px;
+}
+  .contentTextSingleBlog h2 {
+    font-size: 24px;
+  }
+  
+  
+    .myMenu ul {
+      margin-left: 35px;
+    }
+    .myMenu ul li {
+      padding: 0 4px;
+    }
+  
+
+    .textftdfx p {
+      width: 200px;
+    }
+  
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:1320px) {
+
+
+.mainCall span img {
+  width: 24px;
+}
+
+.mainCall a {
+  width: 207px;
+}
+
+.mainCall h4 {
+  width: 151px;
+  font-size: 18px;
+}
+
+.btnCallApply a {
+  padding: 9px 0px;
+  width: 129px;
+}
+
+.callIconSrch a {
+  margin-left: -28px;
+}
+
+.myMenu ul li a {
+  font-size: 14px;
+}
+
+.rightMabout h3 {
+  font-size: 33px;
+}
+
+.cardLeft p {
+  font-size: 16px;
+  width: 91%;
+}
+
+.cardLeft img {
+  width: 463px;
+}
+
+.bgCardDiv {
+  width: 244px;
+  height: 244px;
+  margin-left: -27px;
+}
+
+.formLeft h3 {
+  font-size: 33px;
+}
+
+.formRight {
+  margin-top: 118px;
+}
+
+.rightAd img {
+  width: 516px;
+  margin-top: 142px;
+}
+
+.leftSidemySlide img {
+  width: 500px;
+}
+
+#myBtn {
+  right: 50px;
+}
+
+
+  .allBanner h1 {
+    font-size: 46px;
+  }
+
+  .imgTeamAnime img {
+    width: 265px;
+  }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:1200px) {
+
+
+  .myHead a img {
+    width: 104px;
+  }
+  .myMenu ul li {
+    padding: 0 1px;
+  }
+  .myMenu ul {
+    margin-left: 3px;
+  }
+  .callLeft h2 {
+    font-size: 25px;
+    width: 464px;
+  }
+  .callRnumber h2 a {
+    font-size: 24px;
+  }
+  .callRIcon {
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+  }
+  .testiSlide .carousel .carousel-inner .carousel-item .imgCaro img {
+    margin-right: 160px;
+  }
+  .testiSlide .carousel .carousel-inner .carousel-item .textCaro p {
+    width: 66%;
+  }
+
+
+  .mainCall h4 {
+    font-size: 15px;
+  }
+  .mainCall a {
+    width: 200px;
+  }
+  .btnCallApply a {
+    padding: 10px 0px;
+    width: 120px;
+  }
+  .bgCardDiv {
+    width: 350px;
+    height: 275px;
+    margin-left: 11px;
+  }
+  .cardLeft img {
+    margin-left: 436px;
+    margin-top: -282px;
+  }
+  .cardLeft p {
+    width: 31%;
+  }
+  .formLeft h3 {
+    font-size: 27px;
+  }
+  .rightAd img {
+    width: 478px;
+    margin-top: 162px;
+  }
+  .leftSidemySlide img {
+    width: 417px;
+    margin-top: 80px;
+  }
+
+
+
+.mainCall span {
+  font-size: 29px;
+}
+
+.callIconSrch a {
+  font-size: 16px;
+}
+
+.btnCallApply a {
+  font-size: 14px;
+}
+
+.leftMabout img {
+  width: 367px;
+}
+
+.Ma25yOe {
+  width: 59%;
+  top: 240px;
+  right: -45px;
+}
+
+.allCard {
+  display: block;
+}
+
+.cardRight {
+  margin-left: auto;
+  margin-top: 159px;
+}
+
+.cardLeft img {
+  padding-top: 40px;
+}
+
+.cardLeft a {
+  margin-top: -117px;
+  margin-left: 685px;
+}
+
+.formLeft ul li h2 {
+  font-size: 20px;
+}
+
+.formLeft ul li p {
+  width: 70%;
+}
+
+.formRight {
+  padding: 67px 30px;
+}
+
+.titlemainForm h2 {
+  font-size: 31px;
+}
+
+.callRIcon img {
+  width: 24px;
+}
+
+.myslideIcons ul li {
+  width: 136px;
+}
+
+.myslideIcons ul li a h3 {
+  font-size: 19px;
+}
+
+.leftRightIconsSlides .lrisL [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+  top: 170px;
+}
+
+.leftRightIconsSlides .lrisR [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+  top: 169px;
+}
+
+.myslideIcons ul li a.active::after {
+  top: 190px;
+}
+
+.imgTeamAnime img {
+  width: 228px;
+}
+
+.formLeft ul::before {
+	height: calc(100% - 122px);
+}
+
+
+
+  .textftdfx p {
+    width: 150px;
+  }
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:1088px) {
+
+
+  .myMenu ul li a {
+    font-size: 12px;
+    padding: 0 8px !important;
+  }
+  .mainCall span img {
+    width: 22px;
+  }
+  .allBanner h1 {
+    font-size: 41px;
+  }
+  .formRight {
+    margin-top: 159px;
+  }
+
+
+  .myMenu ul li {
+    padding: 0 0px;
+  }
+  .myMenu ul {
+    margin-left: -6px;
+  }
+  .mainCall a {
+    width: 187px;
+  }
+  .myHead a img {
+    width: 95px;
+  }
+  .rightAd img {
+    width: 455px;
+  }
+  .imgTeamAnime img {
+    width: 201px;
+  }
+
+
+
+.mainCall span img {
+  margin-left: 3px;
+}
+
+.leftMabout {
+  margin-right: 104px;
+}
+
+.testiSlide .carousel .carousel-indicators {
+  left: 490px;
+}
+
+.imgTeamAnime ul li span i {
+  width: 25px;
+  height: 25px;
+  line-height: 25px;
+}
+
+.textftdfx p {
+  width: 201px;
+}
+
+.titleForm p {
+  font-size: 15px;
+}
+
+
+
+
+.bannerSection {
+  background-size: contain;
+}
+
+
+
+
+  .Ma25yOe {
+    width: 60%;
+    top: 237px;
+  }
+
+
+
+.Ma25yOe {
+  height: 45%;
+}
+
+
+
+.textftdfx p {
+	width: 150px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:991px) {
+
+
+  .callIconSrch a {
+    font-size: 21px;
+  }
+  .mainCall span {
+    font-size: 70px;
+  }
+  .leftMabout img {
+    width: 289px;
+  }
+  .Ma25yOe {
+    right: -53px;
+  }
+  .cardLeft img {
+    margin-left: 360px;
+  }
+  .bgCardDiv {
+    width: 310px;
+    margin-left: -20px;
+  }
+  .formLeft ul::before {
+    height: calc(100% - 180px);
+  }
+  .callLeft h2 {
+    font-size: 22px;
+    width: 100%;
+  }
+  .callRnumber h2 a {
+    font-size: 22px;
+    width: 100%;
+    display: block;
+  }
+  .myslideIcons ul li {
+    width: 184px;
+    margin-top: 30px;
+  }
+  .leftRightIconsSlides .lrisL [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+    top: 375px;
+  }
+  .leftRightIconsSlides .lrisR [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+    top: 376px;
+  }
+  .cardLeft a {
+    margin-top: -87px;
+    margin-left: 539px;
+  }
+  .leftSidemySlide img {
+    width: 354px;
+  }
+  .testiSlide .carousel .carousel-inner .carousel-item .textCaro p {
+    width: 49%;
+  }
+  .testiSlide .carousel .carousel-inner .carousel-item .imgCaro img {
+    margin-right: 81px;
+  }
+
+
+  .callIconSrch a {
+    margin-left: -36px;
+  }
+  .cardLeft img {
+    width: 348px;
+  }
+  .cardLeft p {
+    font-size: 14px;
+  }
+
+
+  .mainCall span img {
+    width: 34px;
+  }
+  .mainCall span img {
+    margin-left: -10px;
+  }
+  .Ma25yOe {
+    width: 217px;
+    top: 243px;
+  }
+  .Ma25yOe {
+    height: 41%;
+  }
+  .leftMabout {
+    margin-right: 62px;
+  }
+  .rightAd img {
+    width: 356px;
+  }
+  .myMenu ul li {
+    padding: 12px 1px;
+  }
+
+
+
+
+  .myMenu ul li {
+    width: 20%;
+  }
+
+
+  .myMenu ul li a {
+    font-size: 17px;
+    padding: 1px 10px !important;
+  }
+  .myHead a img {
+    width: 125px;
+    margin-right: 195px;
+  }
+  .imgTeamAnime img {
+    width: 184px;
+  }
+
+
+  .callRight {
+    padding-top: 3px;
+  }
+  .testiSlide .carousel .carousel-inner .carousel-item .textCaro p {
+    font-size: 14px;
+  }
+  .testiSlide .carousel .carousel-inner .carousel-item .imgCaro img {
+    width: 276px;
+  }
+  .contentTextSingleBlog h2 {
+    font-size: 18px;
+  }
+
+
+
+.mainCall span {
+  margin-right: 11px;
+}
+
+.callIconSrch {
+  margin-right: 20px;
+}
+
+.featuredLogoAbout img {
+  padding: 106px 21px;
+}
+
+.allAbout hr {
+  width: 200%;
+}
+
+.text25yOe h1 {
+  font-size: 35px;
+}
+
+.text25yOe p {
+  font-size: 14px;
+}
+
+.cardLeft h2 {
+  font-size: 29px;
+}
+
+.allCall {
+  padding: 37px 27px;
+}
+
+.callLeft {
+  width: 98%;
+}
+
+.callRnumber h2 a {
+  margin-left: 15px;
+}
+
+.headLAd h2 {
+  font-size: 27px;
+}
+
+.myMenu ul li ul {
+  margin-left: 60px;
+}
+
+.myMenu ul li:hover ul {
+  margin-left: 69px;
+  z-index: 2;
+}
+
+.rightSidemySlide p {
+  font-size: 14px;
+}
+
+.textTeam h3 {
+  font-size: 16px;
+}
+
+.textTeam p {
+  font-size: 12px;
+}
+
+.headTTsLsFT h3 {
+  font-size: 17px;
+}
+
+.oneLeftsinglefooterTop ul li {
+  padding-right: 0px;
+}
+
+.oneLeftsinglefooterTop ul li a {
+  margin-left: -97px;
+  line-height: 75px;
+  margin-right: 110px;
+}
+
+.oneLeftsinglefooterTop ul li span {
+  width: 100px;
+  display: block;
+}
+
+.myslideIcons ul li a.active::after {
+	top: 165px;
+}
+
+
+  .formLeft h3 {
+    font-size: 23px;
+    text-align: center;
+  }
+  .formRight {
+    padding: 67px 70px;
+  }
+
+
+  .formLeft ul::before {
+    height: calc(100% - 115px);
+  }
+
+
+
+.formLeft div a {
+  margin-left: 60px;
+}
+
+.imgCaroQuote {
+  left: 75px;
+  bottom: 13px;
+}
+
+  .bannerSection {
+    background-position-y: 8%;
+  }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:900px) {
+
+
+
+  .bannerSection {
+    background-position-y: 15%;
+  }
+
+
+  .myHead a img {
+    margin-right: 100px;
+  }
+  .imgTeamAnime img {
+    width: 159px;
+  }
+
+
+  .allBanner h1 {
+    font-size: 35px;
+  }
+  .testiSlide .carousel .carousel-indicators {
+    left: 425px;
+  }
+
+
+  .allBanner p {
+    font-size: 14px;
+  }
+
+
+  .rightMabout h3 {
+    font-size: 27px;
+  }
+
+
+
+.allBanner p {
+  margin-top: -10px;
+}
+
+.allBanner {
+  padding-top: 155px;
+}
+
+.contactBanner {
+  margin-top: 103px;
+}
+
+.bannerSection {
+  height: 571px;
+}
+
+.rightMabout p {
+  font-size: 12px;
+}
+
+.rightMabout h4 {
+  font-size: 16px;
+}
+
+.rightMabout ul li {
+  font-size: 14px;
+}
+
+  .Ma25yOe {
+    height: 53%;
+  }
+
+  .bannerSection {
+    background-position-y: 8%;
+  }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:790px) {
+
+  .bannerSection {
+    background-position-y: 15%;
+  }
+
+
+
+
+  .myHead a img {
+    margin-right: 60px;
+  }
+
+
+.serviceSection {
+  padding: 50px 0;
+}
+
+.testimonialSection {
+  padding-left: 0px;
+}
+
+.textftdfx p {
+  margin-left: 4px;
+}
+
+
+.myMenu ul li {
+	padding: 12px 1px;
+	width: 20%;
+}
+
+
+.bannerSection {
+	background-position-y: 8%;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:767px) {
+
+  .bannerSection {
+    background-position-y: 15%;
+  }
+
+
+
+
+
+  .myHead a img {
+    margin-right: 0px;
+  }
+
+
+  .allBanner h1 {
+    font-size: 30px;
+  }
+  .allBanner p {
+    margin-top: -7px;
+  }
+  .allBanner p {
+    font-size: 11px;
+  }
+  .Ma25yOe {
+    height: 71%;
+  }
+  .imgTeamAnime img {
+    width: 130px;
+  }
+
+
+  .leftMabout img {
+    width: 342px;
+  }
+  .leftMabout {
+    margin-right: 0;
+    text-align: center;
+  }
+  .Ma25yOe {
+    right: 29px;
+  }
+  .featuredLogoAbout img {
+    padding: 45px 21px;
+  }
+  .cardLeft img {
+    margin-left: 270px;
+  }
+  .cardLeft h2 {
+    font-size: 23px;
+  }
+  .cardLeft img {
+    width: 289px;
+  }
+  .cardLeft a {
+    margin-left: 420px;
+  }
+  .bgCardDiv {
+    width: 225px;
+    margin-left: -22px;
+  }
+  .formLeft h3 {
+    font-size: 19px;
+  }
+  .formRight {
+    padding: 45px 51px;
+  }
+  .callLeft h2 {
+    font-size: 18px;
+  }
+  .callRnumber h2 a {
+    font-size: 16px;
+  }
+  .callRnumber h2 a {
+    margin-left: 9px;
+  }
+  .callRight {
+    padding-top: 10px;
+  }
+  .testiSlide .carousel .carousel-inner .carousel-item .textCaro p {
+    font-size: 11px;
+  }
+  .testiSlide .carousel .carousel-inner .carousel-item .textCaro p {
+    width: 47%;
+  }
+  .testiSlide .carousel .carousel-inner .carousel-item .imgCaro img {
+    width: 210px;
+  }
+  .testiSlide .carousel .carousel-inner .carousel-item .imgCaro img {
+    margin-right: 14px;
+  }
+  .imgCaroQuote {
+    left: 60px;
+    bottom: 8px;
+  }
+  .textTeam h3 {
+    font-size: 14px;
+  }
+  .textTeam p {
+    font-size: 11px;
+  }
+  .contentTextSingleBlog h2 {
+    font-size: 12px;
+  }
+  .headTTsLsFT h3 {
+    font-size: 12px;
+  
+  }
+
+  .cardLeft p {
+    width: 35%;
+  }
+  .bgCardDiv {
+    height: 250px;
+  }
+  .callRIcon {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+  }
+  .callRIcon img {
+    width: 18px;
+  }
+  .rightAd img {
+    margin-top: 50px;
+  }
+
+
+  .formRight {
+    margin-top: 100px;
+  }
+
+
+  .testiSlide .carousel .carousel-inner .carousel-item .imgCaro img {
+    margin-top: 120px;
+  }
+
+
+
+.mainAbout {
+  display: inherit;
+}
+
+.rightMabout {
+  margin-top: 200px;
+}
+
+.featuredLogoAbout {
+  display: inherit;
+  text-align: center;
+  margin-top: 64px;
+}
+
+.featuredLogoAbout img {
+  width: 232px;
+}
+
+.bannerSection {
+  background: #fcfefd url(https://templates.envytheme.com/finix/default/assets/img/main-banner2.jpg);
+  background-position: center top;
+background-repeat: no-repeat;
+background-size: contain;
+background-attachment: fixed;
+}
+
+.cardofSEction h2 {
+  font-size: 21px;
+}
+
+.cardofSEction p {
+  padding-top: 7px;
+  font-size: 13px;
+  line-height: 25px;
+}
+
+.cardofSEction {
+  padding: 6px;
+}
+
+.titleForm h2 {
+  font-size: 30px;
+}
+
+.titleForm p {
+  width: 80%;
+}
+
+.allAd {
+  display: inherit;
+}
+
+.rightAd {
+  text-align: center;
+}
+
+.myslide {
+  display: inherit;
+}
+
+.leftSidemySlide {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.serviceSection {
+  padding: 46px 0;
+}
+
+.testimonialSection {
+  padding-left: 0;
+}
+
+.imgCaroQuote {
+  width: 70px;
+  height: 70px;
+  background-size: 330px;
+}
+
+.teamSection {
+  padding: 54px 0;
+}
+
+.blogSection {
+  padding: 70px 0;
+}
+
+.contentTextSingleBlog span a {
+  font-size: 13px;
+}
+
+.imgoLSfTop a img {
+  max-width: 22%;
+}
+
+
+  .headTTsLsFT h3 {
+    font-size: 21px;
+  }
+
+
+
+.singleBlog {
+  padding: 0px;
+}
+
+.contentTextSingleBlog p {
+  font-size: 13px;
+}
+
+
+  .contentTextSingleBlog h2 {
+    font-size: 14px;
+  }
+
+
+  .bgCardDiv {
+    width: 244px;
+    margin-left: -15px;
+  }
+  .bgCardDiv {
+    height: 259px;
+  }
+
+
+
+
+  .leftRightIconsSlides .lrisL [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+    top: 282px;
+  }
+  .leftRightIconsSlides .lrisR [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+    top: 282px;
+  }
+
+
+
+.leftRightIconsSlides .lrisL [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+  left: -86px;
+}
+
+.leftRightIconsSlides .lrisR [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+  right: -86px;
+}
+
+.bannerSection {
+  background-position-y: 15%;
+}
+
+
+
+.bannerSection {
+	background-position-y: 7%;
+}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:690px) {
+
+  .bannerSection {
+    background-position-y: 8%;
+  }
+
+
+  .bannerSection {
+    height: 494px;
+  }
+  .testiSlide .carousel .carousel-indicators {
+    left: 370px;
+  }
+
+
+  .featuredLogoAbout img {
+    width: 207px;
+  }
+  .leftRightIconsSlides .lrisL [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+    left: -30px;
+  }
+  .leftRightIconsSlides .lrisR [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+    right: -30px;
+  }
+
+
+
+.mainAbout {
+  padding-top: 90px;
+  padding-bottom: 66px;
+}
+
+
+
+
+.container-fluid.myHead {
+  padding: 0;
+}
+
+
+  .callIconSrch a {
+    font-size: 17px;
+  }
+  .callIconSrch a {
+    margin-left: -30px;
+  }
+  .myHead a img {
+    width: 100px;
+  }
+  .mainCall span img {
+    width: 27px;
+  }
+
+
+  .mainCall a {
+    width: 182px;
+  }
+
+  .bannerSection {
+    background-position-y: 6%;
+  }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:615px) {
+  
+
+  .myHead a img {
+    width: 90px;
+  }
+  .mainCall span img {
+    width: 24px;
+  }
+  .mainCall a {
+    width: 170px;
+  }
+  .callIconSrch a {
+    margin-left: -21px;
+  }
+  .featuredLogoAbout img {
+    width: 190px;
+  }
+  .leftRightIconsSlides .lrisL [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+    left: 175px;
+  }
+  .leftRightIconsSlides .lrisR [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+    right: 175px;
+  }
+
+
+  .mainCall span img {
+    margin-left: -14px;
+  }
+  .cardLeft p {
+    font-size: 11px;
+  }
+  .cardLeft a {
+    margin-top: -55px;
+  }
+
+  .cardLeft img {
+    padding-top: 121px;
+  }
+  .formLeft ul li h2 {
+    font-size: 18px;
+  }
+  .formLeft ul li p {
+    font-size: 12px;
+  }
+
+
+  .allBanner {
+    padding-top: 110px;
+  }
+  .contactBanner {
+    margin-top: 57px;
+  
+}
+
+  .allBanner h1 {
+    font-size: 23px;
+  }
+  .featuredLogoAbout {
+    margin-top: 20px;
+  }
+  .featuredLogoAbout img {
+    padding: 45px 28px;
+  }
+  .cardLeft img {
+    width: 230px;
+  }
+  .cardLeft img {
+    margin-left: 260px;
+  }
+  .cardLeft a {
+    margin-left: 370px;
+  }
+  .cardLeft h2 {
+    font-size: 21px;
+  }
+  .bgCardDiv {
+    width: 230px;
+  }
+  .titleForm h2 {
+    font-size: 26px;
+  }
+  .formLeft h3 {
+    font-size: 17px;
+  }
+
+  .leftRightIconsSlides .lrisL [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+    top: 1037px;
+  }
+  .leftRightIconsSlides .lrisL [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+    left: -85px;
+  }
+  .leftRightIconsSlides .lrisR [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+    top: 1037px;
+  }
+  .testiSlide .carousel .carousel-inner .carousel-item .textCaro p {
+    width: 83%;
+    margin: auto;
+  }
+  .testiSlide .carousel .carousel-inner .carousel-item .textCaro p {
+    font-size: 14px;
+  }
+  .imgCaroQuote {
+    left: 198px;
+  }
+  .testiSlide .carousel .carousel-inner .carousel-item .imgCaro img {
+    width: 231px;
+  }
+  .imgTeamAnime img {
+    width: 170px;
+  }
+  .textTeam h3 {
+    margin-bottom: 0;
+  }
+  .singleBlog {
+    padding: 34px;
+  }
+  .contentTextSingleBlog p {
+    font-size: 17px;
+  }
+  .contentTextSingleBlog h2 {
+    font-size: 22px;
+  }
+  .contentTextSingleBlog span a {
+    font-size: 17px;
+  }
+
+
+  .titleForm p {
+    font-size: 13px;
+  }
+
+
+
+.myHead a {
+  margin-right: 0;
+}
+
+.cardSection {
+  padding: 100px 20px;
+}
+
+.cardLeft a {
+  width: 60px;
+  height: 60px;
+}
+
+.cardLeft a span i {
+  font-size: 40px;
+}
+
+.cardLeft a::after {
+  width: 100px;
+  height: 100px;
+}
+
+.cardLeft h4 {
+  font-size: 14px;
+}
+
+.formLeft {
+  padding: 20px;
+}
+
+.callLeft {
+  border-right: inherit;
+}
+
+.adSection {
+  padding: 81px 10px;
+}
+
+.textlistad h3 {
+  font-size: 23px;
+}
+
+.textlistad p {
+  font-size: 13px;
+}
+
+.leftRightIconsSlides .lrisL [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+  font-size: 19px;
+}
+
+.leftRightIconsSlides .lrisR [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+  font-size: 19px;
+}
+
+.testiSlide .carousel .carousel-inner .carousel-item .imgCaro {
+  float: inherit;
+  margin-top: -504px;
+  width: 100%;
+  text-align: center;
+}
+
+.testiSlide .carousel .carousel-inner .carousel-item .textCaro {
+  width: 100%;
+  padding-top: 252px;
+  text-align: center;
+}
+
+.testiSlide {
+  text-align: center;
+}
+
+.singleTeamCard {
+  margin: 1px;
+  display: inline-block;
+  text-align: center;
+  margin-top: 28px;
+}
+
+.imgTeamAnime {
+  text-align: center;
+  width: 200px;
+}
+
+.allTeam {
+  display: inherit;
+  text-align: center;
+}
+
+
+.footerTop {
+  padding: 0 30px;
+}
+
+
+
+  .myMenu ul li {
+    width: 22%;
+  }
+
+
+  .mainAbout {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  .testiSlide .carousel .carousel-indicators {
+    left: 0px;
+  }
+
+
+  .leftRightIconsSlides .lrisL [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+    left: 185px;
+  }
+
+
+  #myBtn {
+    right: 30px;
+  }
+
+
+
+.rightSidemySlide {
+  margin-top: 101px;
+}
+
+.testiSlide .carousel .carousel-indicators {
+  transform: inherit;
+  top: 437px;
+}
+
+
+
+
+.myslideIcons {
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:575px) {
+
+  .callLeft {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .allCall {
+    padding: 24px 13px;
+  }
+
+
+  .btnCallApply a {
+    padding: 7px 0px;
+    width: 106px;
+  }
+
+  .callLeft h2 {
+    font-size: 24px;
+  }
+  .callRnumber h2 a {
+    font-size: 23px;
+  }
+  .callRIcon {
+    width: 54px;
+    height: 54px;
+    line-height: 54px;
+  }
+  .callRIcon img {
+    width: 24px;
+  }
+
+
+  .callLeft {
+    text-align: center;
+  }
+
+
+  .callLeft h2 {
+    font-size: 23px;
+  }
+  .callRIcon img {
+    width: 25px;
+  }
+  .callRIcon {
+    width: 54px;
+    height: 54px;
+    line-height: 54px;
+  }
+  .callRnumber h2 a {
+    font-size: 21px;
+  }
+  .callRight {
+    padding-top: 25px;
+  }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:525px) {
+
+
+.callDiv {
+  display: block ruby;
+}
+
+.allHeader {
+  padding-top: 14px;
+}
+
+[class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+  font-size: 37px;
+}
+
+.flatic {
+  width: 70px;
+  height: 70px;
+}
+
+.titlemainForm p {
+  font-size: 15px;
+}
+
+.mainForm form input {
+  padding: 7px 11px;
+  font-size: 15px;
+}
+
+.mainForm form select {
+  padding: 6px 8px;
+  font-size: 15px;
+}
+
+.mainForm form label {
+  font-size: 15px;
+}
+
+.titleForm h4 {
+  font-size: 15px;
+}
+
+
+  .callIconSrch a {
+    margin-left: 100px;
+  }
+  .myHead a {
+    margin-right: 12px;
+  }
+  .myMenu ul li {
+    width: 30%;
+  }
+  .cardLeft img {
+    margin-left: 230px;
+  }
+  .cardLeft img {
+    width: 200px;
+  }
+  .bgCardDiv {
+    width: 109%;
+  }
+  .titleForm h2 {
+    font-size: 24px;
+  }
+  .titleForm p {
+    font-size: 12px;
+  }
+  .imgCaroQuote {
+    left: 170px;
+  }
+  .testiSlide .carousel .carousel-indicators {
+    top: 460px;
+  }
+
+
+  .cardofSEction h2 {
+    font-size: 18px;
+  }
+  .cardofSEction p {
+    font-size: 12px;
+    line-height: 21px;
+  }
+  .formRight {
+    padding: 45px 31px;
+  }
+
+
+  .titlemainForm h2 {
+    font-size: 28px;
+  }
+
+
+  .cardLeft a {
+    margin-left: 319px;
+  }
+  .cardLeft a {
+    margin-top: -58px;
+  }
+
+
+
+  .myHead a img {
+    width: 112px;
+  }
+
+
+
+  .bannerSection {
+    background-position-y: 11%;
+  }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:475px) {
+
+
+  .callIconSrch a {
+    margin-left: 15px;
+  }
+  .cardLeft img {
+    margin-left: 132px;
+  }
+  .cardLeft a {
+    margin-left: 217px;
+  }
+  .cardLeft a {
+    margin-top: -49px;
+  }
+  .cardofSEction p {
+    font-size: 15px;
+  }
+  .cardofSEction h2 {
+    font-size: 28px;
+  }
+  [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+    font-size: 57px;
+  }
+  .flatic {
+    width: 100px;
+    height: 100px;
+  }
+  .bgCardDiv {
+    width: 98%;
+  }
+  .titleForm h2 {
+    font-size: 20px;
+  }
+  .titlemainForm h2 {
+    font-size: 25px;
+  }
+  .imgCaroQuote {
+    left: 126px;
+  }
+  .testiSlide .carousel .carousel-indicators {
+    top: 480px;
+  }
+
+
+  .allBanner h1 {
+    font-size: 19px;
+  }
+  .allBanner {
+    padding-top: 96px;
+  }
+  .cardLeft img {
+    padding-top: 188px;
+  }
+  .cardLeft h2 {
+    font-size: 25px;
+  }
+  .cardSection {
+    padding: 70px 20px;
+  }
+  
+  .testiSlide .carousel .carousel-inner .carousel-item .textCaro p {
+    font-size: 13px;
+  }
+  .testiSlide .carousel .carousel-inner .carousel-item .textCaro {
+    padding-top: 286px;
+  }
+
+  .bannerSection {
+    background-position-y: 22%;
+  }
+
+  .cardofSEction {
+    padding: 20px;
+  }
+  .testiSlide .carousel .carousel-inner .carousel-item .imgCaro img {
+    margin-top: 84px;
+  }
+
+
+  .cardRight {
+    margin-top: 100px;
+  }
+
+
+  .callLeft h2 {
+    font-size: 21px;
+  }
+  .callRight {
+    padding-top: 4px;
+  }
+  .callRnumber h2 a {
+    font-size: 19px;
+  }
+  .callRIcon img {
+    width: 22px;
+  }
+  .callRIcon {
+    width: 46px;
+    height: 46px;
+    line-height: 46px;
+  }
+
+
+  .myslideIcons ul li {
+    margin: auto;
+    margin-top: 30px;
+  }
+
+
+
+.cardRight {
+  display: inherit;
+}
+
+.crRight {
+  margin-top: 0px;
+}
+
+.footerBottom p {
+  font-size: 12px;
+}
+
+
+
+  .cardLeft img {
+    margin-left: 155px;
+  }
+
+
+
+
+
+  .leftRightIconsSlides .lrisL [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+    left: 139px;
+  }
+  .leftRightIconsSlides .lrisL [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+    top: 1048px;
+  }
+  .leftRightIconsSlides .lrisR [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+    top: 1048px;
+  }
+  .leftRightIconsSlides .lrisR [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+    right: 154px;
+  }
+
+
+
+  .bannerSection {
+    background-position-y: 11%;
+  }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:439px) {
+  .leftRightIconsSlides .lrisL [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+    top: 1164px;
+  }
+  .leftRightIconsSlides .lrisR [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+    top: 1165px;
+  }
+  .leftRightIconsSlides .lrisR [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+    right: 139px;
+  }
+  .leftRightIconsSlides .lrisL [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+    left: 143px;
+  }
+
+
+
+  .myMenu ul li {
+    width: 35%;
+  }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:400px) {
+
+
+  .callIconSrch {
+    margin-right: 9px;
+  }
+  .Ma25yOe {
+    top: 202px;
+  }
+  .rightAd img {
+    width: 100%;
+  }
+  .leftSidemySlide img {
+    width: 100%;
+  }
+  .rightSidemySlide p {
+    font-size: 12px;
+  }
+  .headLAd h2 {
+    font-size: 24px;
+  }
+
+
+  .callIconSrch a {
+    margin-left: 0px;
+  }
+  .bannerSection {
+    background-position-y: 22%;
+  }
+  .allBanner {
+    padding-top: 28px;
+  }
+  .cardLeft h2 {
+    font-size: 21px;
+  }
+  .cardLeft img {
+    margin: auto;
+  }
+  .cardLeft img {
+    padding-top: 15px;
+  }
+  .cardLeft a {
+    margin-left: 110px;
+  }
+  .cardLeft a {
+    margin-top: -60px;
+  }
+  .cardofSEction h2 {
+    font-size: 25px;
+  }
+  .cardofSEction p {
+    font-size: 11px;
+  }
+  .cardofSEction {
+    padding: 8px;
+  }
+  .bgCardDiv {
+    width: 106%;
+  }
+  .titlemainForm h2 {
+    font-size: 20px;
+  }
+  .callLeft h2 {
+    font-size: 15px;
+  }
+  .imgCaroQuote {
+    left: 73px;
+  }
+  .testiSlide .carousel .carousel-inner .carousel-item .textCaro p {
+    font-size: 11px;
+  }
+  .footerBottom p {
+    font-size: 11px;
+  }
+
+
+  .myHead a {
+    margin-right: 5px;
+  }
+  .cardLeft img {
+    width: 100%;
+  }
+  .formRight {
+    padding: 45px 9px;
+  }
+  .titlemainForm p {
+    font-size: 13px;
+  }
+
+
+  .callIconSrch a {
+    font-size: 14px;
+  }
+
+
+  .allBanner p {
+    margin-top: 0px;
+  }
+  .leftMabout img {
+    width: 109%;
+  }
+  .Ma25yOe {
+    height: 99%;
+  }
+  .Ma25yOe {
+    right: -26px;
+  }
+  .cardLeft p {
+    width: 88%;
+  }
+  .imgoLSfTop a img {
+    max-width: 40%;
+  }
+
+
+  .rightMabout h3 {
+    font-size: 18px;
+  }
+  .rightMabout p {
+    font-size: 11px;
+  }
+
+
+  .formLeft ul li h2 {
+    font-size: 14px;
+  }
+  .formLeft ul li p {
+    font-size: 11px;
+  }
+  .textlistad p {
+    font-size: 12px;
+  }
+  .footerTop {
+    padding: 0 0px;
+  }
+  .mainCall span img {
+    width: 21px;
+    margin-top: 12px;
+  }
+  .mainCall a {
+    width: 130px;
+    font-size: 12px;
+  }
+  #myBtn {
+    right: 48px;
+  }
+
+
+  .formLeft ul li p {
+    width: 93%;
+  }
+  .btnCallApply a {
+    font-size: 13px;
+  }
+
+
+  .leftRightIconsSlides .lrisR [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+    right: 83px;
+  }
+  .leftRightIconsSlides .lrisL [class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after {
+    left: 63px;
+  }
+
+
+  .mainCall h4 {
+    width: 146px;
+    font-size: 0px;
+  }
+
+
+  .btnCallApply a {
+    width: 97px;
+  }
+
+
+  .textftdfx p {
+    font-size: 13px;
+  }
+
+
+
+.allBanner h5 {
+  font-size: 13px;
+}
+
+.allBanner h1 {
+  width: 55%;
+}
+
+.allBanner p {
+  width: 87%;
+}
+
+.cardofSEction h2 {
+  padding-top: 10px;
+}
+
+.titleForm p {
+  padding-top: 11px;
+}
+
+.listLAd img {
+  width: 124px;
+}
+
+.oneLeftsinglefooterTop p {
+  font-size: 13px;
+}
+
+.TwoThreeSameLeftsinglefooterTop ul li {
+  padding: 6px 0;
+  font-size: 13px;
+}
+
+.footerBottom {
+  padding: 9px;
+}
+
+.fullRightsinglefooterTop ul li span {
+  background-size: 18px !important;
+  width: 26px;
+}
+
+.mainCall span {
+  height: 34px;
+}
+
+.myslide {
+  padding: 35px 0;
+}
+
+.rightSidemySlide {
+  margin-left: 30px;
+}
+
+#myBtn {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  font-size: 12px;
+}
+
+
+  .bannerSection {
+    background-position-y: 17%;
+  }
+  .allBanner p {
+    width: 56%;
+  }
+  .leftMabout img {
+    width: 100%;
+  }
+  .Ma25yOe {
+    line-height: 99px;
+  }
+  .mainCall span img {
+    width: 15px;
+    margin-top: -4px;
+  }
+
+
+  .text25yOe p {
+    margin-top: -42px;
+  }
+
+
+  .myMenu ul li {
+    width: 45%;
+  }
+
+
+  .formLeft ul::before {
+    height: calc(100% - 100px);
+  }
+
+  .bannerSection {
+    background-position-y: 9%;
+  }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

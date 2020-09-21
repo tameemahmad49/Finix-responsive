@@ -1,0 +1,629 @@
+/* main css */
+
+
+.cpBanner {
+	background: url(https://templates.envytheme.com/finix/default/assets/img/page-title/bg.jpg);
+	height: 400px;
+	background-position: center 60% top;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-attachment: fixed;
+	background-color: #ffffffc4;
+	background-blend-mode: color;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* responsive css for contact page  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:1400px) {
+
+
+.cpFHeader h2 {
+    font-size: 35px;
+  }
+  
+  .cpFormLeft {
+    margin-right: 122px;
+    margin-left: 64px;
+  
+  
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:1200px) {
+
+
+
+.cpFHeader h2 {
+    width: 62%;
+  }
+  
+  .cpFHeader {
+    padding-bottom: 100px;
+  }
+  
+  .cpFormRight {
+    margin-left: -45px;
+  }
+  
+  
+    .cpFormLeft {
+      margin-right: 89px;
+    }
+  
+  
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:991px) {
+
+
+    .cpFHeader h2 {
+      width: 85%;
+    }
+    .cpFormRight {
+      margin-left: 60px;
+      margin-top: 100px;
+    }
+  
+
+    .imgoLSfTop a img {
+        max-width: 18%;
+    }
+
+    .headTTsLsFT h3 {
+        font-size: 21px;
+    }
+
+
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:767px) {
+
+
+.cpBanner h2 {
+    padding-top: 90px;
+    font-size: 37px;
+  }
+  
+  .cpBanner p {
+    font-size: 15px;
+  }
+  
+  
+    .cpFHeader h2 {
+      font-size: 32px;
+    }
+  
+  
+    .cpFHeader h2 {
+      width: 90%;
+    }
+    .cpFormRight {
+      margin-left: 0;
+    }
+  
+  
+    .cpFormLeft {
+      margin: auto;
+    }
+
+
+
+
+
+.cpBanner {
+    height: 263px;
+  }
+  
+  
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:567px) {
+
+
+    .cpBanner h2 {
+      padding-top: 66px;
+    }
+    .cpFHeader h2 {
+      font-size: 28px;
+    }
+    .cpFormLeft {
+      padding: 0 25px;
+    }
+    .cpFormRight {
+      padding: 0 25px;
+    }
+  
+  
+  
+  .cpFormLeft form ul li input {
+    padding: 12px 10px;
+  }
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:525px) {
+
+
+
+    .cpBanner h2 {
+      padding-top: 100px;
+    }
+  
+  
+  
+  .cpFormRLiText h3 {
+    font-size: 19px;
+  }
+
+
+
+
+.cpBanner {
+    background-position-y: 11%;
+  }
+  
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:460px) {
+
+
+
+    .cpBanner {
+      background-position-y: 8%;
+    }
+    .cpBanner h2 {
+      padding-top: 50px;
+    }
+  
+  
+    .cpBanner h2 {
+      font-size: 30px;
+    }
+    .cpBanner p {
+      font-size: 13px;
+      margin-top: -7px;
+    }
+    .cpFormRight {
+      margin-left: -15px;
+    }
+  
+  
+    .cpFHeader h2 {
+      font-size: 20px;
+    }
+    .cpFormLeft form ul li input {
+      padding: 8px 10px;
+    }
+  
+  
+  
+  .cpFormLeft form ul li textarea {
+    padding: 42px 10px;
+  }
+  
+  .cpFormRight ul li span i {
+    width: 36px;
+    font-size: 21px;
+  }
+  
+  .cpFormRLiText ul li p {
+    font-size: 12px;
+  }
+  
+  .cpFormRLiText p {
+    font-size: 12px;
+  }
+  
+  .cpFormRLiText a {
+    font-size: 12px;
+  }
+
+
+    #myBtn {
+      right: 17px;
+    }
+  
+
+
+
+
+.cpMap {
+    height: 300px;
+  }
+  
+  .cpMap iframe {
+    height: 100%;
+  }
+
+  
+
+  .cpBanner {
+	height: 170px;
+}
+
+  
+
+  
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:360px) {
+
+
+
+    .cpFHeader h2 {
+      width: 95%;
+    }
+  
+  
+    .cpFHeader h2 {
+      font-size: 18px;
+    }
+  
+  
+    .cpFormLeft {
+      padding: 0 0px;
+      padding-left: 7px;
+    }
+  
+  
+  
+  .cpFormRLiText ul li p {
+    width: 115px;
+  }
+  
+  .cpFormRLiText p {
+    width: 215px;
+  }
+
+  
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
